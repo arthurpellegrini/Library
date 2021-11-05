@@ -32,7 +32,7 @@ Voici les différentes étapes nécessaires à l'utilisation de l'application. J
 
 Vous devez télécharger le dossier de l'application. Pour cela cliquer sur le logo Github ci-dessous.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/library_project)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/library)
 
 Ensuite aller sur le bouton vert "code" et sélectionner "download zip".
 
