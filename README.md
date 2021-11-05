@@ -14,14 +14,14 @@ Visuals
 
 Here are some screenshots of the application.
 
-![image_connection][connection][image_search
+![image_connection][login]
 ![image_search][search]
-![image_reservation][reservation] !
-![image_add_book][add_book] !
-![image_pret_book][loan_book] !
-![image_rendu_livre][rendu_livre] !
-![image_delay][delay] !
-![image_account_management][account_management] !
+![image_reservation][booking]
+![image_add_book][add_book]
+![image_pret_book][book_ready]
+![image_rendu_livre][book_return]
+![image_delay][delay]
+![image_account_management][account_management]
 
 Installation
 --------------------------------------------------------------
