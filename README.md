@@ -98,7 +98,7 @@ The development of this project was stopped after it was submitted to our Univer
 [//]: # (Reference link used in the body of the Markdown)
 [import_csv]: https://i.goopics.net/tt83jo.png
 [login]: https://i.goopics.net/xtb3dv.png
-[search]: https://i.goopics.net/2l
+[search]: https://i.goopics.net/2l2lu1.png
 [booking]: https://i.goopics.net/ccb7zp.png
 [add_book]: https://i.goopics.net/jfs74v.png
 [book_ready]: https://i.goopics.net/do3i5s.png
