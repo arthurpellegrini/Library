@@ -62,7 +62,7 @@ Support
 
 Si vous avez une question ou un problème, n'hésitez pas à nous contacter à l'adresse mail suivante : arthur.pellegrini2002@gmail.com
 
-Roadmap
+Feuille de route
 --------------------------------------------------------------
 
 * Fixer les bugs connus
@@ -76,7 +76,7 @@ Contributions
 
 Nous sommes ouverts à tout type de contributions. Les personnes qui le souhaitent peuvent proposer des changements par l'intermédiaire de Github en proposant des "commits".
 
-Authors and thanks
+Auteurs et remerciements
 --------------------------------------------------------------
 
 Les auteurs de ce projet sont les suivants : 
@@ -90,7 +90,7 @@ Nous remercions aussi les personnes suivantes de nous avoir aidées lors du dév
 * LENFANTIN Alexandre
 * ZEITOUNI Karine
 
-Project status 
+Statut du projet 
 --------------------------------------------------------------
 
 Le développement de ce projet a été stoppé après la transmission de celui-ci au jury de notre Université. Mais il est possible que l'application soit amélioré par la suite.
