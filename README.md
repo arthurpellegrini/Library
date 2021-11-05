@@ -32,7 +32,7 @@ Here are the different steps necessary to use the application. I would like to p
 
 You must download the application file. To do this click on the Github logo below.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/library_project)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="40" heigth="40"/>](https://github.com/arthurpellegrini/library)
 
 Then go to the green "code" button and select "download zip".
 
